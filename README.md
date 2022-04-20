@@ -1,4 +1,4 @@
-# This Reading is About the Growth mindset  
+# This Reading is About the Growth Mindset  
 ## What is Growth Mindset?
 It is a state of mind in which an individual is receptive to new information and challenges with an optimistic approach while thinking that they can achieve or overcome anything they face.
 ### How I Will Keep Myself in a Growth Mindset
