@@ -1,7 +1,7 @@
 # This Reading is About the Growth mindset  
 ## What is Growth Mindset?
 It is a state of mind in which an individual is receptive to new information and challenges with an optimistic approach while thinking that they can achieve or overcome anything they face.
-### Ways on How to Keep Yourself in a Growth Mindset
+### How I Will Keep Myself in a Growth Mindset
 * Keep an open mind
 * Don't be afraid to fail.
 * Be eager to learn new things
