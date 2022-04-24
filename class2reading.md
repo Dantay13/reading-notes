@@ -5,7 +5,7 @@ It is a software that you download or access online to write and manage text tha
 2. syntax highlighting: Is a feature that takes the text you type and makes it more noticeable by coloring the text, making attributes a different color than elements, and elements a different color than copy. This will make it easier to read and to find errors.
 3. A variaty of themes (to reduce eye strain and fatigue)
 4. the ability to choose from a healthy selection of extensions available when you need them.
-## Basic Text vs Code-Specific Editor
+### Basic Text vs Code-Specific Editor
 
 | Word Processors (Basic) | Code Editors            |
 | ----------------------- | ----------------------- |
