@@ -6,6 +6,7 @@ It is a software that you download or access online to write and manage text tha
 3. A variaty of themes (to reduce eye strain and fatigue)
 4. the ability to choose from a healthy selection of extensions available when you need them.
 ## Basic Text vs Code-Specific Editor
+
 | Word Processors (Basic) | Code Editors            |
 | ----------------------- | ----------------------- |
 | Microsoft Word          | Github's Atom           |
@@ -19,6 +20,7 @@ It is a software that you download or access online to write and manage text tha
 ## What is the terminal
 Also known as the command line interface (cli), it is where you can navugate and do everything just as you would do navigating on the computer files interface. In the terminal you can find files, change directories, move and copy files, open files and make new files and folders.
 ### Basic Navigation Keys
+
 | Command    | Description                            |
 | ---------- | -------------------------------------- |
 | PWC        | present working directory              |
