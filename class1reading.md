@@ -41,4 +41,4 @@ Find out more about markdown syntax **[here](https://www.markdownguide.org/basic
 
 Follow me on Github <https://github.com/Dantay13>
 
-[<== BACK](README.md)
+[<=== BACK](README.md)
