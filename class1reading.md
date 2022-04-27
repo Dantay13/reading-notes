@@ -40,5 +40,3 @@ When trying to **bold** a word in markdown, add two asterisk or two underscore b
 Find out more about markdown syntax **[here](https://www.markdownguide.org/basic-syntax/ "Enjoy learning")**
 
 Follow me on Github <https://github.com/Dantay13>
-
-[<=== BACK](README.md)
