@@ -34,3 +34,5 @@ Also known as the command line interface (cli), it is where you can navugate and
 | rf         | recursive removal forced               |
 | cp         | to copy                                |
 | mv         | move                                   |
+
+[<=== BACK](README.md)
