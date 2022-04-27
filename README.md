@@ -9,3 +9,7 @@ It is a state of mind in which an individual is receptive to new information and
 * Be eager to learn new things
 
 ![image](https://user-images.githubusercontent.com/103233764/164160255-498416be-bb09-48d1-9d47-68340c503894.png)
+
+### Table of Content 
+- Class1reading 
+- Class2reading 
