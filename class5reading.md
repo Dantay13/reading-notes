@@ -8,14 +8,14 @@ CSS (Cascading Style Sheets) is a language for specifying how documents (HTML, S
 CSS is a rule-based language — you define the rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page.
 <br> For example, you can decide to have the main heading on your page to be shown as large red text. The following code shows a very simple CSS rule that would achieve the styling described above:
 
-![CSS syntax image](Screenshot.png)
+![CSS syntax image](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/pic3.png)
 
 In the above example, the CSS rule opens with a selector . This selects the HTML element that we are going to style. In this case, we are styling level one headings `(<h1>)`.
 <br>We then have a set of curly braces `{ }`.
 <br>Inside the braces will be one or more declarations, which take the form of property and value pairs. We specify the property (color in the above example) before the colon, and we specify the value of the property after the colon (red in this example).
 <br>This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (<h1> in this case), then a value that we'd like to give the property.
 
-![CSS stylesheet](Screenshot2.png)
+![CSS stylesheet](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/pic4.png)
 
 [Source](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
