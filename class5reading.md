@@ -36,10 +36,10 @@ With an external style sheet, you can change the look of an entire website by ch
 
 `<!DOCTYPE html>`
 <br>`<html>`
-<br> `<head>`
-<br> `<link rel="stylesheet" href="mystyle.css">`
-<br> `</head>`
-<br> `<body>`
+<br>`<head>`
+<br>`<link rel="stylesheet" href="mystyle.css">`
+<br>`</head>`
+<br>`<body>`
 
 `<h1>This is a heading</h1>`
 <br> `<p>This is a paragraph.</p>`
@@ -62,7 +62,7 @@ An external style sheet can be written in any text editor, and must be saved wit
   margin-left: 20px;
 }'
 
-### Internal 
+### Internal
 
 An internal style sheet may be used if one single HTML page has a unique style.
 
@@ -71,9 +71,9 @@ An internal style sheet may be used if one single HTML page has a unique style.
 Example
 <br> The internal style is defined inside the "<style>" element, inside the head section.
 
-'<!DOCTYPE html>'
-<br> '<html>'
-<br> '<head>'
+`<!DOCTYPE html>`
+<br>`<html>`
+<br>`<head>`
 <br> '<style>'
 <br> 'body {
 <br>  background-color: linen;
@@ -88,7 +88,7 @@ Example
 <br> `<body>`
 
 `<h1>This is a heading</h1>
-<br> `<p>This is a paragraph.</p>`
+<br>`<p>This is a paragraph.</p>`
 
 `</body>`
 <br> `</html>`
