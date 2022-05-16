@@ -89,7 +89,7 @@ This is an event listener, which listens for the browser's `DOMContentLoaded` ev
 
 In the external example, we use a more modern JavaScript feature to solve the problem, the `defer` attribute, which tells the browser to continue downloading the HTML content once the `<script>` tag element has been reached.
 
-![Loading Strategy Img 2](https://github.com/Dantay13/reading-notes/blob/main/pics/Class6-Img12.png)
+![Loading Strategy Img 2](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/Class6-Img12.png)
 
 In this case both the script and the HTML will load simultaneously and the code will work.
 
