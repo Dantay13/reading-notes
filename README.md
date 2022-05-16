@@ -24,3 +24,4 @@ It is a state of mind in which an individual is receptive to new information and
 - [Class 3](class3reading.md)
 - [Class 4](class4reading.md)
 - [Class 5](class5reading.md)
+- [Class 6](class6reading.md)

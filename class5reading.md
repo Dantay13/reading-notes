@@ -64,7 +64,7 @@ An inline style may be used to apply a unique style for a single element.
 
 ### Multiple Style Sheets
 
-If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used. 
+If some properties have been defined for the same selector (element) in different style sheets, the value from the last read style sheet will be used.
 
 [Source](https://www.w3schools.com/css/css_howto.asp)
 

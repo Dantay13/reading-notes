@@ -27,16 +27,13 @@ JavaScript: The dynamics
 The client-side JavaScript language consists of some common programming features that allow you to do things like:
 
 - Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name.
-
 - Operations on pieces of text (known as "strings" in programming). In the above example we take the string "Player 1: " and join it to the name variable to create the complete text label, e.g. "Player 1: Chris".
-
 - Running code in response to certain events occurring on a web page. We used a click event in our example above to detect when the label is clicked and then run the code that updates the text label. And more.
 
 What is even more exciting however is the functionality built on top of the client-side JavaScript language. So-called Application Programming Interfaces (APIs) provide you with extra superpowers to use in your JavaScript code.
 <br> They generally fall into two categories:
 
 1. Browser APIs are built into your web browser, and are able to expose data from the surrounding computer environment, or do useful complex things.
-
 2. Third party APIs are not built into the browser by default, and you generally have to grab their code and information from somewhere on the Web.
 
 ## JavaScript Running Order
@@ -66,7 +63,6 @@ Then add some JavaScript inside the `<script>` element to make the page do somet
 ### External JavaScript
 
 - First, create a new file in the same directory as your sample HTML file. Call it `script.js` — make sure it has that .js filename extension, as that's how it is recognized as JavaScript.
-
 - Replace your current `<script>` element with the following:
 
 ![External example Img 1](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class6-img9.png)
@@ -85,7 +81,7 @@ In the above code examples, in the internal and external examples the JavaScript
 
 ### Internal Example Solution
 
-![Loading Strategy Img 1]()
+![Loading Strategy Img 1](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/Class6-Img11.png)
 
 This is an event listener, which listens for the browser's `DOMContentLoaded` event, which signifies that the HTML body is completely loaded and parsed. The JavaScript inside this block will not run until after that event is fired, therefore the error is avoided (you'll learn about events later in the course).
 
@@ -93,6 +89,8 @@ This is an event listener, which listens for the browser's `DOMContentLoaded` ev
 
 In the external example, we use a more modern JavaScript feature to solve the problem, the `defer` attribute, which tells the browser to continue downloading the HTML content once the `<script>` tag element has been reached.
 
-![Loading Strategy Img 2]()
+![Loading Strategy Img 2](https://github.com/Dantay13/reading-notes/blob/main/pics/Class6-Img12.png)
 
 In this case both the script and the HTML will load simultaneously and the code will work.
+
+[<==BACK](README.md)

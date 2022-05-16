@@ -24,7 +24,6 @@ Some people like to draw their wireframe by hand, others like to use software li
 
 - **Wireframe.cc**: Wireframe.cc provides you with the technology to create wireframes really quickly within your browser, the online version of pen and paper.
 
-
 #### 6 Steps to Make a Wireframe
 
 1. Do your research
