@@ -93,4 +93,6 @@ In the external example, we use a more modern JavaScript feature to solve the pr
 
 In this case both the script and the HTML will load simultaneously and the code will work.
 
+[Source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#internal_javascript)
+
 [<==BACK](README.md)
