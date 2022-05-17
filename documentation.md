@@ -36,6 +36,10 @@ in class 5 I learned about CSS. This section showed me how to add color, and sty
 
 In class 6 i learned how to take a page from static to dynamic by adding simple JavaScript to the page.
 
+I learned how to create a discount code with JavaScript for my page with the help of the below source.
+
+[Live Blogger YouTube Page](https://www.youtube.com/watch?v=hqt12BSh-WQ)
+
 [Read more about class 6 here...](class6reading.md)
 
 [<==BACK](README.md)
