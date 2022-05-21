@@ -24,7 +24,9 @@ A JavaScript function is defined with:
 - followed by parentheses ""()""
 - the code to be executed
 
-Example: ![image1](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img1.png)
+Example:
+
+![image1](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img1.png)
 
 ### Function invocation
 
@@ -39,6 +41,8 @@ The code inside the function will execute when "something" invokes (calls) the f
 When JavaScript reaches a return statement, the function will stop executing.
 <br> If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
 
+Example:
+
 ![image2 of a function retunr](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img2.png)
 
 ### Why use functions
@@ -52,7 +56,7 @@ You can reuse code: Define the code once, and use it many times.
 
 ## Operators
 
-Example: ![Image3 example of operators](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/claa7-img3.png)
+![Image3 example of operators](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/claa7-img3.png)
 
 ### JavaScript Arithmetic Operators
 
@@ -79,13 +83,16 @@ Example: ![Image3 example of operators](https://raw.githubusercontent.com/Dantay
 |   `%=`    |   `x %= y`   |   `x = x % y`  |
 |   `**=`   |   `x **= y`  |   `x = x ** y  |
 
-Example: ![image4](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img4.png)
+
+Example:
+
+![image4](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img4.png)
 
 ### JavaScript String Operators
 
 The `+` operator can also be used to add (concatenate) strings.
 
-Example ![Image5](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img5.png)
+![Image5](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class7-img5.png)
 
 [Source](https://www.w3schools.com/js/js_operators.asp)
 
