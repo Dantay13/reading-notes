@@ -12,7 +12,7 @@ Loops offer a quick and easy way to do something repeatedly.
 A `for` loop repeats until a specified condition evaluates to false.
 <br> A for statement looks as follows:
 
-![image 1]()
+![image 1](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8img1.png)
 
 When a `for` loop executes, the following occurs:
 
@@ -28,7 +28,7 @@ When a `for` loop executes, the following occurs:
 
 A `while` statement executes its statements as long as a specified condition evaluates to `true`. A while statement looks as follows:
 
-![image 2]()
+![image 2](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8img2.png)
 
 If the `condition` becomes `false`, `statement` within the loop stops executing and control passes to the statement following the loop.
 
@@ -40,7 +40,7 @@ To execute multiple statements, use a block statement (`{ ... }`) to group those
 
 The following `while` loop iterates as long as `n` is less than `3`:
 
-![image 3]()
+![image 3](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8img3.png)
 
 With each iteration, the loop increments n and adds that value to x. Therefore, x and n take on the following values:
 
@@ -54,7 +54,7 @@ After completing the third pass, the condition `n < 3` is no longer `true`, so t
 
 Avoid infinite loops. Make sure the condition in a loop eventually becomes `false`—otherwise, the loop will never terminate! The statements in the following `while` loop execute forever because the condition never becomes `false`:
 
-![image4]()
+![image4](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8img4.png)
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
@@ -66,19 +66,19 @@ An assignment operator assigns a value to its left operand based on the value of
 
 There are also compound assignment operators that are shorthand for the operations listed in the following table:
 
-![image5]()
+![image5](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8image5.png)
 
 #### Assigning to Properties
 
 If a variable refers to an [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects), then the left-hand side of an assignment expression may make assignments to properties of that variable. For example:
 
-![image6]()
+![image6](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8image6.png)
 
 #### Destructuring
 
 For more complex assignments, the [destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) syntax is a JavaScript expression that makes it possible to extract data from arrays or objects using a syntax that mirrors the construction of array and object literals.
 
-![image7]()
+![image7](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8image7.png)
 
 [More about Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
 
@@ -86,8 +86,10 @@ For more complex assignments, the [destructuring assignment](https://developer.m
 
 A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the `===` and `!==` operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. The following table describes the comparison operators in terms of this sample code:
 
-![image8]()
+![image8](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8image8.png)
 
-![image9]()
+![image9](https://raw.githubusercontent.com/Dantay13/reading-notes/main/pics/class8image9.png)
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
+
+[<==BACK](README.md)
