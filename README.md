@@ -30,7 +30,7 @@ It is a state of mind in which an individual is receptive to new information and
 
 # Code 201 Reading Notes
 
-During ode 201 I will be covering
+Languages and topics I will be covering during Code 201.
 
 1. HTML
 
