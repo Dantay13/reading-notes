@@ -1,4 +1,4 @@
-# Reading Notes Code Fellow 102
+# Code 102 Reading Notes
 
 ## About Me
 
