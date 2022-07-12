@@ -18,13 +18,72 @@ It is a state of mind in which an individual is receptive to new information and
 
 ## Table of Content
 
-- [Documentation](documentation.md)
-- [Class 1](class1reading.md)
-- [Class 2](class2reading.md)
-- [Class 3](class3reading.md)
-- [Class 4](class4reading.md)
-- [Class 5](class5reading.md)
-- [Class 6](class6reading.md)
-- [Class 7](class7reading.md)
-- [Class 8](class8reading.md)
+- [Code 102 Documentation](documentation.md)
+- [Code 102 Class 1](class1reading.md)
+- [Code 102 Class 2](class2reading.md)
+- [Code 102 Class 3](class3reading.md)
+- [Code 102 Class 4](class4reading.md)
+- [Code 102 Class 5](class5reading.md)
+- [Code 102 Class 6](class6reading.md)
+- [Code 102 Class 7](class7reading.md)
+- [Code 102 Class 8](class8reading.md)
+
+# Code 201 Reading Notes
+
+During ode 201 I will be covering
+
+1. HTML
+
+* Structure 
+* Text
+* Links
+* Images
+* Tables
+* HTML5
+* Forms
+* Process
+* Design
+
+2. CSS
+
+* Color
+* Text
+* Boxes
+* Lists
+* Tables
+* Forms
+* Grid Layouts
+* Fluid Layouts
+* Animations and Transitions
+
+3. JavaScript 
+
+* Loops
+* Conditions
+* Functions
+* Objects (Including Properties and Methods)
+* Object-Oriented Programming
+* Object Extension with Prototypes
+* Events, Event Listeners, and Event Handlers in Callback Functions
+* DOM Manipulation and Traversal Using “Vanilla” JavaScript without jQuery
+* Utilization of an external library such as ChartJS
+* Local Storage and JSON
+* The Basics of MV
+
+## Table of content
+- [Code 201 Documentation]
 - [Code 201 Class 1](201/class1notes.md)
+- [Code 201 Class 2]
+- [Code 201 Class 3]
+- [Code 201 Class 4]
+- [Code 201 Class 5]
+- [Code 201 Class 6]
+- [Code 201 Class 7]
+- [Code 201 Class 8]
+- [Code 201 Class 9]
+- [Code 201 Class 10]
+- [Code 201 Class 11]
+- [Code 201 Class 12]
+- [Code 201 Class 13]
+- [Code 201 Class 14]
+- [Code 201 Class 15]
