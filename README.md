@@ -76,7 +76,7 @@ Languages and topics I will be covering during Code 201.
 - [Code 201 Class 2](201/class-02.md)
 - [Code 201 Class 3]
 - [Code 201 Class 4]
-- [Code 201 Class 5]
+- [Code 201 Class 5](201/class-05.md)
 - [Code 201 Class 6]
 - [Code 201 Class 7]
 - [Code 201 Class 8]
