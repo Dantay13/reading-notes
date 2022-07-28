@@ -32,3 +32,4 @@ The DOM is not a programming language, but without it, the JavaScript language w
 
 ## Things I want to know more about
 
+I will like to better understand the DOM. At the moment it is still a bit of a grey area.
