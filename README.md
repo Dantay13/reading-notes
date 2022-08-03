@@ -79,7 +79,7 @@ Languages and topics I will be covering during Code 201.
 - [Code 201 Class 5](201/class-05.md)
 - [Code 201 Class 6](201/class-06.md)
 - [Code 201 Class 7](201/class-07.md)
-- [Code 201 Class 8]
+- [Code 201 Class 8](201/class-08.md)
 - [Code 201 Class 9]
 - [Code 201 Class 10]
 - [Code 201 Class 11]
