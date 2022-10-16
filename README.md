@@ -30,6 +30,8 @@ It is a state of mind in which an individual is receptive to new information and
 
 # Code 201 Reading Notes
 
+In this course I will be covering the foundation of software development using the languages like HTML, CSS and Javascript. I will also be equipped with the tools and learn the methods of professional software developers by studying computer science concepts and use contemporary development technologies. These incluse, VS Code, Chrome Dev Tools, Git, Github and the terminal.
+
 Languages and topics I will be covering during Code 201.
 
 1. HTML
@@ -72,16 +74,16 @@ Languages and topics I will be covering during Code 201.
 
 ## Table of content
 - [Code 201 Documentation]
-- [Code 201 Class 1](201/class-01.md)
-- [Code 201 Class 2](201/class-02.md)
+- [Code 201 Class 1]
+- [Code 201 Class 2]
 - [Code 201 Class 3]
 - [Code 201 Class 4]
-- [Code 201 Class 5](201/class-05.md)
-- [Code 201 Class 6](201/class-06.md)
-- [Code 201 Class 7](201/class-07.md)
-- [Code 201 Class 8](201/class-08.md)
+- [Code 201 Class 5]
+- [Code 201 Class 6]
+- [Code 201 Class 7]
+- [Code 201 Class 8]
 - [Code 201 Class 9]
-- [Code 201 Class 10](201/class-10.md)
+- [Code 201 Class 10]
 - [Code 201 Class 11]
 - [Code 201 Class 12]
 - [Code 201 Class 13]
