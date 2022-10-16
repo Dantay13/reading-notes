@@ -32,46 +32,6 @@ It is a state of mind in which an individual is receptive to new information and
 
 In this course I will be covering the foundation of software development using the languages like HTML, CSS and Javascript. I will also be equipped with the tools and learn the methods of professional software developers by studying computer science concepts and use contemporary development technologies. These incluse, VS Code, Chrome Dev Tools, Git, Github and the terminal.
 
-Languages and topics I will be covering during Code 201.
-
-1. HTML
-
-* Structure 
-* Text
-* Links
-* Images
-* Tables
-* HTML5
-* Forms
-* Process
-* Design
-
-2. CSS
-
-* Color
-* Text
-* Boxes
-* Lists
-* Tables
-* Forms
-* Grid Layouts
-* Fluid Layouts
-* Animations and Transitions
-
-3. JavaScript 
-
-* Loops
-* Conditions
-* Functions
-* Objects (Including Properties and Methods)
-* Object-Oriented Programming
-* Object Extension with Prototypes
-* Events, Event Listeners, and Event Handlers in Callback Functions
-* DOM Manipulation and Traversal Using “Vanilla” JavaScript without jQuery
-* Utilization of an external library such as ChartJS
-* Local Storage and JSON
-* The Basics of MV
-
 ## Table of content
 - [Code 201 Documentation]
 - [Code 201 Class 1]
