@@ -34,8 +34,8 @@ In this course I will be covering the foundation of software development using t
 
 ## Table of content
 - [Code 201 Documentation]
-- [Code 201 Class 1](class-01.md)
-- [Code 201 Class 2]
+- [Code 201 Class 1](201/class-01.md)
+- [Code 201 Class 2](201/class-02.md)
 - [Code 201 Class 3]
 - [Code 201 Class 4]
 - [Code 201 Class 5]
