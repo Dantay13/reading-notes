@@ -8,8 +8,13 @@ Creating Hyperlinks
 <br>To create a basic link, the content would be wraped into a `<a>` element and use the `href` attribute, which is also know as a **Hypertext Reference** or **target**.
 
 2. The `href` attribute contains what information?
+<br> The `href` contains the URL that the hyperlink points to.
 
 3. What are some ways we can ensure links on our pages are accessible to all readers?
+
+- Implement screen readers
+- Include keywords in the link text to effectively describe what is being linked to.
+- Add in descriptve link text
 
 ## CSS Layout
 
@@ -26,6 +31,9 @@ CSS Layout: Normal Flow CSS Layout: Positioning
 Functions – Reusable Blocks of Code
 
 1. Describe the difference between a function declaration and a function invocation.
+<br> Declaring a function is the initial step of creating a function, in this process you code the word function, followed by naming the function.
+<brb> Invoking a function is the piece of code that makes the content inside of the function runs. If the function is not invoked the code inside of the body of the function will not run.
+
 2. What is the difference between a parameter and an argument?
 
 ## Benefits of Pair Programming
