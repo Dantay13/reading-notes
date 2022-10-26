@@ -5,7 +5,10 @@
 Creating Hyperlinks
 
 1. To create a basic link, we wrap text or other content inside what element?
+<br>To create a basic link, the content would be wraped into a `<a>` element and use the `href` attribute, which is also know as a **Hypertext Reference** or **target**.
+
 2. The `href` attribute contains what information?
+
 3. What are some ways we can ensure links on our pages are accessible to all readers?
 
 ## CSS Layout
