@@ -3,9 +3,9 @@
 ## Questions
 
 1. What are three key factors that contribute to psychologically safe teams?
-<br> a). Allowing members to share their opinions
-<br> b). Community bond
-<br> c). Empathy
+<br> a). Conversation turn taking
+<br> b). Mutual respect
+<br> c). Social sensitivity
 
 2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
 <br> At my full time job we are a team of seven. In the past we used to be a team of 8, but the previous head of the department is no longer with the team. She was a very strict person and did not like when staffs made mistake. She also spoke to staff in a heavry and rough tone whenever staffs make mistake, or are cluesless about a task. This environments was not healthy as it made staffs nervous and afraid of making mistakes which eventually prevent staffs from wanting to explore in other areas and learn new things. Now that she is no longer with the team, the staffs appear to be happier and more willing to leanr new tasks.
