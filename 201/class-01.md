@@ -75,7 +75,7 @@
 - Input and output information
 
 2. How can you add JavaScript to an HTML document?
-<br> You add Javascript to an HTML document with the external method which is: `<script>` tag. The tag should have the `href` attribute in it.
+<br> You add Javascript to an HTML document with the external method which is: `script` tag along with the `href` attribute
 
 
 [<== BACK](README.md)
