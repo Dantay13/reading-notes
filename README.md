@@ -1,4 +1,6 @@
-# Code 102 Reading Notes
+# Reading Notes
+
+This website is where I will store all of my Code Fellows class reading notes. It will be a place where I can always go back to refer to a topic that I have covered during my software development studies.
 
 ## About Me
 
@@ -16,7 +18,9 @@ It is a state of mind in which an individual is receptive to new information and
 
 ![image](https://user-images.githubusercontent.com/103233764/164160255-498416be-bb09-48d1-9d47-68340c503894.png)
 
-## Table of Content
+## Code 102 - Intro to Software Development
+
+### Table of content
 
 - [Code 102 Documentation](documentation.md)
 - [Code 102 Class 1](class1reading.md)
@@ -28,11 +32,12 @@ It is a state of mind in which an individual is receptive to new information and
 - [Code 102 Class 7](class7reading.md)
 - [Code 102 Class 8](class8reading.md)
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 In this course I will be covering the foundation of software development using the languages like HTML, CSS and Javascript. I will also be equipped with the tools and learn the methods of professional software developers by studying computer science concepts and use contemporary development technologies. These incluse, VS Code, Chrome Dev Tools, Git, Github and the terminal.
 
-## Table of content
+### Table of content
+
 - [Code 201 Documentation]
 - [Code 201 Class 1](201/class-01.md)
 - [Code 201 Class 2](201/class-02.md)
@@ -49,3 +54,25 @@ In this course I will be covering the foundation of software development using t
 - [Code 201 Class 13]
 - [Code 201 Class 14]
 - [Code 201 Class 15]
+
+## Code 301 - Intermediate Software Development
+
+In this course, I will study the common core of software development, including the MVC pattern, object-oriented and functional programming, and computer science fundamentals such as basic data structures and algorithms. I will learn how to create and deploy web apps in the “MERN” stack with MongoDB, Express, React, and Node.js, with the help of third-party APIs and libraries from around the web.
+
+### Table of content
+
+- [Code 301 Class 1]
+- [Code 301 Class 2]
+- [Code 301 Class 3]
+- [Code 301 Class 4]
+- [Code 301 Class 5]
+- [Code 301 Class 6]
+- [Code 301 Class 7]
+- [Code 301 Class 8]
+- [Code 301 Class 9]
+- [Code 301 Class 10]
+- [Code 301 Class 11]
+- [Code 301 Class 12]
+- [Code 301 Class 13]
+- [Code 301 Class 14]
+- [Code 301 Class 15]
