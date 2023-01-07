@@ -1,6 +1,6 @@
 # Class 1 Readings: Introduction to React and Components
 
-## Component-Based Architecture
+## [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 1; What is a “component”?
 
@@ -28,7 +28,7 @@ Not context specific − Components are designed to operate in different environ
 - System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 - Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
-## What is Props and How to Use it in React
+## [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=“Props”%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 1; What is “props” short for?
 
@@ -40,7 +40,9 @@ Properties
 - Pass it to child component(s) by using Props
 - Render the Props Data
 
-3; What is the flow of props? Uni-directional flow. (one way from parent to child)
+3; What is the flow of props?
+
+Uni-directional flow. (one way from parent to child)
 
 ## Things I want to know more about
 
