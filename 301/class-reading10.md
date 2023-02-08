@@ -3,7 +3,7 @@
 ## [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
 
 1. What is a ‘call’?
-<brb> a call is a function invocation
+<br> a call is a function invocation
 
 2. How many ‘calls’ can happen at once?
 <br> One at a time
