@@ -1,4 +1,4 @@
-#
+# Class 14 Readings: Authentication
 
 ## [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
 
