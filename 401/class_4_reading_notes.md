@@ -25,12 +25,9 @@
 - Recursive case: Decompose the original problem into simpler instances of the same problem. This is the recursive case:
 - Base case: As the large problem is broken down into successively less complex ones, those subproblems must eventually become so simple that they can be solved without further subdivision. This is the base case
 
-### Best practices to follow in maintain state
-
-
 ![finding the factorial of 5 example of recursive case and base case](/Users/dannertaylor/Desktop/Screen Shot 2023-03-28 at 11.49.28 PM.png)
 
-
+### Best practices to follow in maintain state
 
 ## [Pytest Fixtures and Coverage](https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage)
 
