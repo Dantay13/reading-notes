@@ -52,3 +52,13 @@
 Numpy (Numeric Python) is a Python data analysis package
 
 3. Explain the basic structure and properties of NumPy arrays, and provide examples of how to create, manipulate, and perform operations on them.
+
+notes 
+
+float
+selecting a specific cell
+selecting a secific amount of cell from a specific column
+
+```py
+data_name[:]
+```
