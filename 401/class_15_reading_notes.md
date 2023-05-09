@@ -30,9 +30,9 @@ Depth first traversal is where we prioritize going through the depth (height) of
 
 ![tree traversing example](img/tree-example.png)
 
-- Pre-order: `A, B, D, E, C, F`
-- In-order: `D, B, E, A, F, C`
-- Post-order: `D, E, B, F, C, A`
+- Pre-order: `A, B, D, E, C, F` (TOP DOWN)
+- In-order: `D, B, E, A, F, C` (LEFT TO RIGHT)
+- Post-order: `D, E, B, F, C, A` (BOTTOM UP)
 
 #### Traversal Pseudocode
 
@@ -83,3 +83,5 @@ ALGORITHM postOrder(root)
 
     OUTPUT <-- root.value
 ```
+
+### [VISUALIZATION OF BINARY TREE TRAVERSAL](https://www.issacc.com/binary-tree-traversal-preorder-inorder-postorder/)
