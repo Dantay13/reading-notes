@@ -33,7 +33,7 @@
 
 2. After reading “Tailwind in 15 minutes,” can you describe the purpose of utility classes in Tailwind CSS and provide an example of how to use them to style an HTML element?
 
-    Utility classes in Tailwind CSS, are small, reusable classes that contain one or two CSS properties. They enable developers to build custom designs without writing custom CSS, promoting faster development and better maintainability. For example, an <h2> element can be styled using utility classes like text-lg for large text, text-indigo-600 for color, border-b for a bottom border, and mb-3 for bottom margin, allowing for a flexible and efficient approach to styling without the need for custom CSS code.
+    Utility classes in Tailwind CSS, are small, reusable classes that contain one or two CSS properties. They enable developers to build custom designs without writing custom CSS, promoting faster development and better maintainability. For example, an `<h2>` element can be styled using utility classes like text-lg for large text, text-indigo-600 for color, border-b for a bottom border, and mb-3 for bottom margin, allowing for a flexible and efficient approach to styling without the need for custom CSS code.
 
 3. Based on “Why to use Next.js,” explain the main advantages of using Next.js for web development, and provide a brief comparison between traditional client-side rendering and Next.js’s server-side rendering approach.
 
