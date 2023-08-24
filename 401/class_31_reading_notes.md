@@ -40,7 +40,7 @@
     - Configure the project's settings to serve static files during development.
     - Implement the logic for views, fetching data from the database using models and passing it to templates.
     - In views, render templates using the render function and pass data as context.
-    - Create navigation links and URLs in templates using the {% url %} template tag, which references the URL patterns defined in the app's urls.py.
+    - Create navigation links and URLs in templates using the `{% url %}` template tag, which references the URL patterns defined in the app's urls.py.
 
 3. Can you explain the primary differences between Django and Django REST framework?
 
