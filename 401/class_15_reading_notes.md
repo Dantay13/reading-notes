@@ -1,4 +1,4 @@
-# Class 15 Reading Implementation: Trees
+<!-- # Class 15 Reading Implementation: Trees
 
 ## [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
@@ -36,7 +36,7 @@ Depth first traversal is where we prioritize going through the depth (height) of
 
 #### Traversal Pseudocode
 
-Pre-order
+Pre-order -->
 
 <!-- ```py
 ALGORITHM preOrder(root)
@@ -83,5 +83,5 @@ ALGORITHM postOrder(root)
 
     OUTPUT <-- root.value
 ``` -->
-
-### [VISUALIZATION OF BINARY TREE TRAVERSAL](https://www.issacc.com/binary-tree-traversal-preorder-inorder-postorder/)
+<!-- 
+### [VISUALIZATION OF BINARY TREE TRAVERSAL](https://www.issacc.com/binary-tree-traversal-preorder-inorder-postorder/) -->
