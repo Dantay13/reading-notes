@@ -38,7 +38,7 @@ Depth first traversal is where we prioritize going through the depth (height) of
 
 Pre-order
 
-```py
+<!-- ```py
 ALGORITHM preOrder(root)
 INPUT <-- root node
 // OUTPUT <-- pre-order output of tree node's values
@@ -82,6 +82,6 @@ ALGORITHM postOrder(root)
         postOrder(root.right)
 
     OUTPUT <-- root.value
-```
+``` -->
 
 ### [VISUALIZATION OF BINARY TREE TRAVERSAL](https://www.issacc.com/binary-tree-traversal-preorder-inorder-postorder/)
