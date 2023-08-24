@@ -40,7 +40,7 @@ Pre-order
 
 ```py
 ALGORITHM preOrder(root)
-// INPUT <-- root node
+INPUT <-- root node
 // OUTPUT <-- pre-order output of tree node's values
 
     OUTPUT <-- root.value
